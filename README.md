@@ -1,5 +1,5 @@
 ## Hi there 👋
-**Developing Good Habits to reach my goals!**
+**Developing Good Habits is key to reaching goals!**
 <!--
 **Sommer04/sommer04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
